@@ -1,5 +1,5 @@
 # Hello 👋, I'm Yasin
-### GodPlayer69
+### Shortly "GodPlayer69"
 
 ## Skills
 
