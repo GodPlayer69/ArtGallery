@@ -1,0 +1,1 @@
+This is a virtual art gallery website. Each page is independently viewable.
